@@ -1,0 +1,170 @@
+body{
+    background-color: black;
+    
+}
+
+li,ul{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:40px ;
+    margin-top: -3%;
+    
+}
+ul{
+    margin-left: 700px;
+}
+ul,li,a{
+    text-decoration-line: none;
+
+}
+a{
+    
+    color:white;
+}
+a:hover{
+   
+    color:yellow;
+    
+}
+h1{
+    color: red;
+    border-color: red;
+    border-width: 10px;
+    border-style: double;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.dark{
+    margin-top: 30px;
+    margin-left: px;
+    border: white 2px solid;
+}
+.title{
+    color: white;
+    margin-left: 70%;
+    margin-top: -26%;
+    
+}
+p{
+    margin-left: -170px;
+}
+h2{
+    font-size: 25px;
+    margin-left: -170px;
+}
+.rating{
+    margin-top: -18%;
+    margin-left: -190px;
+    scale: 1.1;
+    transition: scale 0.4s linear;
+}
+.button{
+    margin-left: 69%;
+    margin-top: -4%;
+    color: black;
+    background-color: yellow;
+    width: 200px;
+    height: 40px;
+    scale: 1;
+    transition: scale 0.4s linear;
+   
+
+}
+.button:hover{
+    scale: 1.1;
+    border: solid;
+    border-color: white;
+    border-width: 1px;
+   
+}
+.more{
+    color: white;
+    font-size: 30px;
+  
+}
+
+
+
+h6{
+    color: white;
+    margin-left: 67px;
+    font-size: 13px;
+   
+}
+.movie{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    
+}
+.image1{
+    scale: 1;
+    transition: scale 0.4s linear;
+  
+}
+
+
+.image1:hover{
+   
+    scale: 1.1;
+    border: 2px solid white;
+   
+}
+.image2{
+    scale: 1;
+    transition: scale 0.4s linear;
+  
+}
+
+.image2:hover{
+   
+    scale: 1.1;
+    border: 2px solid white;
+   
+}
+
+.image3{
+    scale: 1;
+    transition: scale 0.4s linear;
+  
+}
+
+.image3:hover{
+   
+    scale: 1.1;
+    border: 2px solid white;
+   
+}
+.image4{
+    scale: 1;
+    transition: scale 0.4s linear;
+  
+}
+
+.image4:hover{
+   
+    scale: 1.1;
+    border: 2px solid white;
+   
+}
+
+.link1{
+    margin-top: 60px;
+}
+.caption{
+    color: white;
+   margin-left: 90px;
+}
+.yusuf{
+    color: white;
+    margin-top: -200px;
+    margin-left: 10px;
+}
+span{
+    color: red;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
